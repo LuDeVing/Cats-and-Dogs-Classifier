@@ -35,7 +35,7 @@ your-project-root/
 │   │       └── img.png
 │   ├── data.npz          # Generated automatically (dataset cache)
 │   └── model.h5          # Generated automatically (trained model)
-└── image_classifier.py   # Your Python script (rename if needed)
+└── image_classifier.py
 ```
 
 **Important:**
